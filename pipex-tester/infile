@@ -1,0 +1,10 @@
+total 52
+drwxr-xr-x 3 mcampita 2020   113 Mar 15 13:24 .
+drwxr-xr-x 6 mcampita 2020    97 Mar 15 13:24 ..
+-rw-r--r-- 1 mcampita 2020   108 Mar 15 10:56 fn_allowed
+-rw-r--r-- 1 mcampita 2020     0 Mar 15 13:24 infile
+-rw-r--r-- 1 mcampita 2020   160 Mar 14 10:51 Makefile
+drwxr-xr-x 2 mcampita 2020     6 Mar 15 13:24 output
+-rwxr-xr-x 1 mcampita 2020 21816 Mar 15 13:24 pipex
+-rw-r--r-- 1 mcampita 2020   176 Mar 14 10:51 README.md
+-rwxr-xr-x 1 mcampita 2020 15365 Mar 15 10:56 test.sh

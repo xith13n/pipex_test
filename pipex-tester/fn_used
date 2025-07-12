@@ -1,0 +1,13 @@
+access
+close
+dup2
+execve
+exit
+fork
+free
+malloc
+open
+perror
+pipe
+wait
+write
